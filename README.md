@@ -2,7 +2,7 @@
 
 **Lead AI Consultant |  GenAI Solution Architecture & Delivery**
 
-[Portfolio](https://cdrc1103.github.io/) • [LinkedIn](https://linkedin.com/in/cedric-issel) • [GitHub](https://github.com/cdrc1103)
+[Portfolio](https://cdrc1103.github.io/) • [LinkedIn](https://linkedin.com/in/cedric-issel)
 
 ---
 
