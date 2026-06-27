@@ -1,14 +1,10 @@
-# Cedric Issel
-
-**Lead AI Engineer | Agentic AI, RAG Systems & AI Security in Regulated Environments**
-
-[Portfolio](https://cdrc1103.github.io/) · [LinkedIn](https://linkedin.com/in/cedric-issel)
-
----
+# Welcome to my Github!
 
 ## About Me
 
-Lead AI Engineer shipping production GenAI systems into environments where compliance is non negotiable. I architect:
+**Lead AI Engineer | Agentic AI, RAG Systems & AI Security in Regulated Environments**
+
+Shipping production GenAI systems into environments where compliance is non negotiable. I architect:
 - AI platforms serving 500+ government users
 - agentic document processing pipelines
 - execution under BSI C5 and ISO 27001 controls.
@@ -16,7 +12,7 @@ Lead AI Engineer shipping production GenAI systems into environments where compl
 
 **What I build:** Agentic AI systems, production RAG pipelines, LLM orchestration with LangChain/LangGraph, secure AI platforms on Azure
 
-**Sectors:** Public Sector, Financial Services, Insurance, Retail, Automotive
+**Industry expertise in:** Public Sector, Financial Services, Insurance, Retail, Automotive
 
 ---
 
@@ -35,4 +31,4 @@ Lead AI Engineer shipping production GenAI systems into environments where compl
 
 ## Contact
 
-**LinkedIn:** [linkedin.com/in/cedric-issel](https://linkedin.com/in/cedric-issel)
+[LinkedIn](https://linkedin.com/in/cedric-issel)
